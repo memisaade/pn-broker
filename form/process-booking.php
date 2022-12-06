@@ -13,9 +13,9 @@
 	$subject = "Booking Form from Clinic Website";
 
 	$fields = array();
-	$fields{"bookingname"} = "First name";
+	$fields{"bookingname"} = "Nombre";
 	$fields{"bookingemail"} = "Email";
-	$fields{"bookingphone"} = "Phone";
+	$fields{"bookingphone"} = "Telefono";
 	$fields{"bookingdate"} = "Date";
 	$fields{"bookingtime"} = "Time";
 	$fields{"bookingservice"} = "Service";
